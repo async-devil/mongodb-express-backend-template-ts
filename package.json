@@ -1,0 +1,24 @@
+{
+  "name": "mongodb-express-backend-template-ts",
+  "version": "1.0.0",
+  "license": "MIT",
+  "main": "index.ts",
+  "author": "async-devil",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/async-devil/mongodb-express-backend-template-ts.git"
+  },
+  "bugs": {
+    "url": "https://github.com/async-devil/mongodb-express-backend-template-ts/issues"
+  },
+  "homepage": "https://github.com/async-devil/mongodb-express-backend-template-ts#readme",
+  "keywords": [
+    "MongoDB",
+    "Mongoose",
+    "Node.js",
+    "Express"
+  ],
+  "scripts": {
+    "test": "echo It's working"
+  }
+}
