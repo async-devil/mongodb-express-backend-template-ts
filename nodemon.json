@@ -1,0 +1,13 @@
+{
+  "ignore": [
+    ".git",
+    "/node_modules",
+    "*.js",
+    "/.vscode",
+    "*.test.*"
+  ],
+  "ext": "ts",
+  "execMap": {
+    "ts": "npx ts-node"
+  }
+}
